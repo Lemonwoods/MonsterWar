@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/UI">
+        <file>UIDocuments/StartWindow/back.png</file>
+        <file>UIDocuments/StartWindow/background.png</file>
+        <file>UIDocuments/StartWindow/createNewMap.png</file>
+        <file>UIDocuments/StartWindow/defaultMap.png</file>
+        <file>UIDocuments/StartWindow/finish.png</file>
+        <file>UIDocuments/StartWindow/mapArchive.png</file>
+        <file>UIDocuments/MapEditer/back.png</file>
+        <file>UIDocuments/MapEditer/background.png</file>
+        <file>UIDocuments/MapEditer/brick.png</file>
+        <file>UIDocuments/MapEditer/ice.png</file>
+        <file>UIDocuments/MapEditer/initial.png</file>
+        <file>UIDocuments/MapEditer/jelly.png</file>
+        <file>UIDocuments/MapEditer/monster.png</file>
+        <file>UIDocuments/MapEditer/player.png</file>
+        <file>UIDocuments/MapEditer/saveAndBack.png</file>
+        <file>UIDocuments/MapEditer/saveAndPlay.png</file>
+        <file>UIDocuments/MapEditer/spikerock.png</file>
+        <file>UIDocuments/MainWindow/background.png</file>
+        <file>UIDocuments/MainWindow/jelly.png</file>
+        <file>UIDocuments/MainWindow/home.png</file>
+        <file>UIDocuments/MainWindow/pause.png</file>
+        <file>UIDocuments/MainWindow/resume.png</file>
+        <file>UIDocuments/EndWindow/exit.png</file>
+        <file>UIDocuments/EndWindow/lose.png</file>
+        <file>UIDocuments/EndWindow/win.png</file>
+        <file>UIDocuments/EndWindow/resume.png</file>
+        <file>UIDocuments/MainWindow/playerTop.png</file>
+        <file>UIDocuments/MainWindow/playerButtom.png</file>
+        <file>UIDocuments/MainWindow/brick.png</file>
+        <file>UIDocuments/MainWindow/spikerock.png</file>
+        <file>UIDocuments/MainWindow/accelerator.png</file>
+        <file>UIDocuments/MainWindow/bomb.png</file>
+        <file>UIDocuments/MainWindow/frozen.png</file>
+        <file>UIDocuments/MainWindow/medicine.png</file>
+        <file>UIDocuments/MainWindow/acceleratorAfter.png</file>
+        <file>UIDocuments/MainWindow/bombAfter.png</file>
+        <file>UIDocuments/MainWindow/frozenAfter.png</file>
+        <file>UIDocuments/MainWindow/medicineAfter.png</file>
+        <file>UIDocuments/MainWindow/bullet.png</file>
+        <file>UIDocuments/MainWindow/ice.png</file>
+        <file>UIDocuments/MainWindow/monster.png</file>
+    </qresource>
+</RCC>
